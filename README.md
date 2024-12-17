@@ -14,6 +14,6 @@ Here are some of the projects I maintain:
 
 ## 📫 How to reach me
 
-You can reach me via [GitHub](https://github.com/Galtozzy) or connect with me on other platforms.
+You can reach me via [GitHub](https://github.com/Galtozzy).
 
 Thanks for stopping by!
