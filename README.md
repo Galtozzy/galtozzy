@@ -1,10 +1,4 @@
-# Welcome to My GitHub Profile! 👋
-
-Hello! I'm **Galtozzy**, a dedicated developer with a passion for solving problems and contributing to various projects.
-
-## 🌟 Pinned Repositories
-
-Here are some of the projects I maintain:
+## Here are some of the projects I maintain:
 
 - [py-cachify](https://github.com/EzyGang/py-cachify): Caching and distributed locks in your applications with just one or two lines. Easy to learn. Fast to code.
   
