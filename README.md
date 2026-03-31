@@ -8,6 +8,8 @@
 
 ## 📫 How to reach me
 
-You can reach me via [GitHub](https://github.com/Galtozzy).
+You can reach me via socials:
+- [GitHub](https://github.com/Galtozzy)
+- [Twitter/X](https://x.com/Galtozzy)
 
 Thanks for stopping by!
