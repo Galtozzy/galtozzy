@@ -1,6 +1,8 @@
 ## Here are some of the projects I maintain:
 
 - [py-cachify](https://github.com/EzyGang/py-cachify): Caching and distributed locks in your applications with just one or two lines. Easy to learn. Fast to code.
+
+- [ActaVoces](https://github.com/EzyGang/actavoces): Local-first desktop app for recording, transcribing, diarizing, and summarizing conversations.
   
 - [blacksheep-msgspec-starter](https://github.com/EzyGang/blacksheep-msgspec-starter): A starter template for building Blacksheep API services with msgpack.
   
