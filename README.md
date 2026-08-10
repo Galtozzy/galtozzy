@@ -6,7 +6,7 @@
   
 - [blacksheep-msgspec-starter](https://github.com/EzyGang/blacksheep-msgspec-starter): A starter template for building Blacksheep API services with msgpack.
   
-- [fastapi-starter](https://github.com/EzyGang/fastapi-starter): A starter template for backend Python projects using FastAPI.
+- [fastapi-ddd-starter](https://github.com/EzyGang/fastapi-ddd-template): A starter template for backend Python projects using FastAPI.
 
 ## 📫 How to reach me
 
